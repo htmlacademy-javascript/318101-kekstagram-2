@@ -15,3 +15,4 @@ function palindrom (str) {
   return newStr === str;
 }
 palindrom('топот');
+palindrom('довод');
